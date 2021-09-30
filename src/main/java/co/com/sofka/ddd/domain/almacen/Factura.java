@@ -1,8 +1,8 @@
-package co.com.sofka.retoDDD.domain.almacen;
+package co.com.sofka.ddd.domain.almacen;
 
 
 import co.com.sofka.domain.generic.Entity;
-import co.com.sofka.retoDDD.domain.almacen.values.*;
+import co.com.sofka.ddd.domain.almacen.values.*;
 
 public class Factura extends Entity<FacturaId> {
 

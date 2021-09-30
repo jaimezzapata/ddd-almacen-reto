@@ -1,9 +1,9 @@
-package co.com.sofka.retoDDD.domain.almacen;
+package co.com.sofka.ddd.domain.almacen;
 
 import co.com.sofka.domain.generic.Entity;
-import co.com.sofka.retoDDD.domain.almacen.values.BodegaId;
-import co.com.sofka.retoDDD.domain.almacen.values.Stock;
-import co.com.sofka.retoDDD.domain.almacen.values.Ubicacion;
+import co.com.sofka.ddd.domain.almacen.values.BodegaId;
+import co.com.sofka.ddd.domain.almacen.values.Stock;
+import co.com.sofka.ddd.domain.almacen.values.Ubicacion;
 
 public class Bodega extends Entity<BodegaId> {
 

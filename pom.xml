@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>co.com.sofka</groupId>
-    <artifactId>co.com.sofka.ddd</artifactId>
+    <artifactId>co.com.sofka.retoDDD</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

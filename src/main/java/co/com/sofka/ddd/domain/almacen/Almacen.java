@@ -1,16 +1,16 @@
-package co.com.sofka.retoDDD.domain.almacen;
+package co.com.sofka.ddd.domain.almacen;
 
 import co.com.sofka.domain.generic.AggregateEvent;
 import co.com.sofka.domain.generic.DomainEvent;
-import co.com.sofka.retoDDD.domain.almacen.events.AlmacenCreado;
-import co.com.sofka.retoDDD.domain.almacen.events.CelularAgregado;
-import co.com.sofka.retoDDD.domain.almacen.values.AlmacenId;
-import co.com.sofka.retoDDD.domain.almacen.values.NombreAlmacen;
-import co.com.sofka.retoDDD.domain.celular.Celular;
-import co.com.sofka.retoDDD.domain.celular.values.CelularId;
-import co.com.sofka.retoDDD.domain.celular.values.NombreCelular;
-import co.com.sofka.retoDDD.domain.celular.values.Precio;
-import co.com.sofka.retoDDD.domain.celular.values.ReceiverId;
+import co.com.sofka.ddd.domain.almacen.events.AlmacenCreado;
+import co.com.sofka.ddd.domain.almacen.events.CelularAgregado;
+import co.com.sofka.ddd.domain.almacen.values.AlmacenId;
+import co.com.sofka.ddd.domain.almacen.values.NombreAlmacen;
+import co.com.sofka.ddd.domain.celular.Celular;
+import co.com.sofka.ddd.domain.celular.values.CelularId;
+import co.com.sofka.ddd.domain.celular.values.NombreCelular;
+import co.com.sofka.ddd.domain.celular.values.Precio;
+import co.com.sofka.ddd.domain.celular.values.ReceiverId;
 
 import java.util.List;
 import java.util.Objects;
