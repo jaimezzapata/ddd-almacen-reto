@@ -1,2 +1,3 @@
-# DDD
-![Modelo de Dominio](https://github.com/SergioAPineda/RetoDDD/blob/master/RetoDDD1-MODELO%20DE%20DOMINIO.jpg)
+DDD
+
+Idseño y Modelo DDD que muestra el funcionamiento de una tienda de tecnología que vende celulares
